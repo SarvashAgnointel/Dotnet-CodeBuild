@@ -1,0 +1,17 @@
+version: 0.0
+os: linux
+
+files:
+  - source: /
+    destination: /home/ubuntu/dotnet
+
+hooks:
+  BeforeInstall:
+    - location: scripts/cleanup_dotnet.sh
+      timeout: 300
+      runas: ubuntu
+
+  AfterInstall:
+    - location: scripts/start_dotnet.sh
+      timeout: 300
+      runas: ubuntu

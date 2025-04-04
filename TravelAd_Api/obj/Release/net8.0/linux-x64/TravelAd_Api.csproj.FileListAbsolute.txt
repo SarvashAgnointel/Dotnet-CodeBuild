@@ -1,0 +1,278 @@
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\log4net.config
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\appsettings.Development.json
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\appsettings.json
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\TravelAd_Api.staticwebassets.endpoints.json
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\TravelAd_Api
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\TravelAd_Api.deps.json
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\TravelAd_Api.runtimeconfig.json
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\TravelAd_Api.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\TravelAd_Api.pdb
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Amazon.Extensions.S3.Encryption.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\AWSSDK.Core.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\AWSSDK.Extensions.NETCore.Setup.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\AWSSDK.KeyManagementService.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\AWSSDK.S3.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Azure.Core.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Azure.Identity.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\CsvHelper.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\EPPlus.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\log4net.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Microsoft.Data.SqlClient.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Microsoft.Extensions.DependencyModel.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Microsoft.Identity.Client.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Microsoft.IdentityModel.Abstractions.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Microsoft.IdentityModel.Logging.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Microsoft.IdentityModel.Protocols.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Microsoft.IdentityModel.Tokens.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Microsoft.OpenApi.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Microsoft.SqlServer.Server.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Microsoft.Win32.SystemEvents.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Newtonsoft.Json.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\BouncyCastle.Crypto.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Serilog.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Serilog.AspNetCore.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Serilog.Extensions.Hosting.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Serilog.Extensions.Logging.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Serilog.Formatting.Compact.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Serilog.Settings.Configuration.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Serilog.Sinks.Console.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Serilog.Sinks.Debug.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Serilog.Sinks.File.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Serilog.Sinks.RollingFile.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Stripe.net.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Swashbuckle.AspNetCore.Swagger.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\System.ClientModel.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\System.Configuration.ConfigurationManager.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\System.Drawing.Common.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\System.IdentityModel.Tokens.Jwt.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\System.Memory.Data.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\System.Runtime.Caching.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\System.Security.Cryptography.ProtectedData.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\System.Xml.XPath.XmlDocument.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\de\Microsoft.Data.SqlClient.resources.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\es\Microsoft.Data.SqlClient.resources.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\fr\Microsoft.Data.SqlClient.resources.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\it\Microsoft.Data.SqlClient.resources.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\ja\Microsoft.Data.SqlClient.resources.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\ko\Microsoft.Data.SqlClient.resources.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\ru\Microsoft.Data.SqlClient.resources.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\obj\Release\net8.0\linux-x64\TravelAd_Api.csproj.AssemblyReference.cache
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\obj\Release\net8.0\linux-x64\TravelAd_Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\obj\Release\net8.0\linux-x64\TravelAd_Api.AssemblyInfoInputs.cache
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\obj\Release\net8.0\linux-x64\TravelAd_Api.AssemblyInfo.cs
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\obj\Release\net8.0\linux-x64\TravelAd_Api.csproj.CoreCompileInputs.cache
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\obj\Release\net8.0\linux-x64\TravelAd_Api.MvcApplicationPartsAssemblyInfo.cs
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\obj\Release\net8.0\linux-x64\TravelAd_Api.MvcApplicationPartsAssemblyInfo.cache
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\obj\Release\net8.0\linux-x64\TravelAd_Api.sourcelink.json
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\obj\Release\net8.0\linux-x64\scopedcss\bundle\TravelAd_Api.styles.css
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\obj\Release\net8.0\linux-x64\staticwebassets.build.json
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\obj\Release\net8.0\linux-x64\staticwebassets.development.json
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\obj\Release\net8.0\linux-x64\staticwebassets.build.endpoints.json
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\obj\Release\net8.0\linux-x64\staticwebassets\msbuild.TravelAd_Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\obj\Release\net8.0\linux-x64\staticwebassets\msbuild.TravelAd_Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\obj\Release\net8.0\linux-x64\staticwebassets\msbuild.build.TravelAd_Api.props
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\obj\Release\net8.0\linux-x64\staticwebassets\msbuild.buildMultiTargeting.TravelAd_Api.props
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\obj\Release\net8.0\linux-x64\staticwebassets\msbuild.buildTransitive.TravelAd_Api.props
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\obj\Release\net8.0\linux-x64\staticwebassets.pack.json
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\obj\Release\net8.0\linux-x64\TravelAd.BD355572.Up2Date
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\obj\Release\net8.0\linux-x64\TravelAd_Api.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\obj\Release\net8.0\linux-x64\refint\TravelAd_Api.dll
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\obj\Release\net8.0\linux-x64\TravelAd_Api.pdb
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\obj\Release\net8.0\linux-x64\TravelAd_Api.genruntimeconfig.cache
+D:\TravelAd\Backend\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api\obj\Release\net8.0\linux-x64\ref\TravelAd_Api.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\log4net.config
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\appsettings.Development.json
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\appsettings.json
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\TravelAd_Api.staticwebassets.endpoints.json
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\TravelAd_Api
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\TravelAd_Api.deps.json
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\TravelAd_Api.runtimeconfig.json
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\TravelAd_Api.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\TravelAd_Api.pdb
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Amazon.Extensions.S3.Encryption.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\AWSSDK.Core.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\AWSSDK.Extensions.NETCore.Setup.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\AWSSDK.KeyManagementService.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\AWSSDK.S3.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Azure.Core.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Azure.Identity.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\CsvHelper.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\EPPlus.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Inetlab.SMPP.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\log4net.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Microsoft.Data.SqlClient.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Microsoft.Extensions.DependencyModel.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Microsoft.Identity.Client.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Microsoft.IdentityModel.Abstractions.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Microsoft.IdentityModel.Logging.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Microsoft.IdentityModel.Protocols.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Microsoft.IdentityModel.Tokens.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Microsoft.OpenApi.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Microsoft.SqlServer.Server.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Microsoft.Win32.SystemEvents.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Newtonsoft.Json.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\BouncyCastle.Crypto.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Serilog.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Serilog.AspNetCore.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Serilog.Extensions.Hosting.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Serilog.Extensions.Logging.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Serilog.Formatting.Compact.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Serilog.Settings.Configuration.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Serilog.Sinks.Console.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Serilog.Sinks.Debug.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Serilog.Sinks.File.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Serilog.Sinks.RollingFile.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Stripe.net.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Swashbuckle.AspNetCore.Swagger.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\System.ClientModel.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\System.Configuration.ConfigurationManager.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\System.Drawing.Common.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\System.IdentityModel.Tokens.Jwt.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\System.Memory.Data.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\System.Runtime.Caching.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\System.Security.Cryptography.ProtectedData.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\System.Xml.XPath.XmlDocument.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\de\Microsoft.Data.SqlClient.resources.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\es\Microsoft.Data.SqlClient.resources.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\fr\Microsoft.Data.SqlClient.resources.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\it\Microsoft.Data.SqlClient.resources.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\ja\Microsoft.Data.SqlClient.resources.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\ko\Microsoft.Data.SqlClient.resources.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\ru\Microsoft.Data.SqlClient.resources.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\bin\Release\net8.0\linux-x64\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\obj\Release\net8.0\linux-x64\TravelAd_Api.csproj.AssemblyReference.cache
+D:\TravelAd\TravelAd_Api\TravelAd_Api\obj\Release\net8.0\linux-x64\TravelAd_Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\TravelAd\TravelAd_Api\TravelAd_Api\obj\Release\net8.0\linux-x64\TravelAd_Api.AssemblyInfoInputs.cache
+D:\TravelAd\TravelAd_Api\TravelAd_Api\obj\Release\net8.0\linux-x64\TravelAd_Api.AssemblyInfo.cs
+D:\TravelAd\TravelAd_Api\TravelAd_Api\obj\Release\net8.0\linux-x64\TravelAd_Api.csproj.CoreCompileInputs.cache
+D:\TravelAd\TravelAd_Api\TravelAd_Api\obj\Release\net8.0\linux-x64\TravelAd_Api.MvcApplicationPartsAssemblyInfo.cs
+D:\TravelAd\TravelAd_Api\TravelAd_Api\obj\Release\net8.0\linux-x64\TravelAd_Api.MvcApplicationPartsAssemblyInfo.cache
+D:\TravelAd\TravelAd_Api\TravelAd_Api\obj\Release\net8.0\linux-x64\TravelAd_Api.sourcelink.json
+D:\TravelAd\TravelAd_Api\TravelAd_Api\obj\Release\net8.0\linux-x64\scopedcss\bundle\TravelAd_Api.styles.css
+D:\TravelAd\TravelAd_Api\TravelAd_Api\obj\Release\net8.0\linux-x64\staticwebassets.build.json
+D:\TravelAd\TravelAd_Api\TravelAd_Api\obj\Release\net8.0\linux-x64\staticwebassets.development.json
+D:\TravelAd\TravelAd_Api\TravelAd_Api\obj\Release\net8.0\linux-x64\staticwebassets.build.endpoints.json
+D:\TravelAd\TravelAd_Api\TravelAd_Api\obj\Release\net8.0\linux-x64\staticwebassets\msbuild.TravelAd_Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\TravelAd\TravelAd_Api\TravelAd_Api\obj\Release\net8.0\linux-x64\staticwebassets\msbuild.TravelAd_Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\TravelAd\TravelAd_Api\TravelAd_Api\obj\Release\net8.0\linux-x64\staticwebassets\msbuild.build.TravelAd_Api.props
+D:\TravelAd\TravelAd_Api\TravelAd_Api\obj\Release\net8.0\linux-x64\staticwebassets\msbuild.buildMultiTargeting.TravelAd_Api.props
+D:\TravelAd\TravelAd_Api\TravelAd_Api\obj\Release\net8.0\linux-x64\staticwebassets\msbuild.buildTransitive.TravelAd_Api.props
+D:\TravelAd\TravelAd_Api\TravelAd_Api\obj\Release\net8.0\linux-x64\staticwebassets.pack.json
+D:\TravelAd\TravelAd_Api\TravelAd_Api\obj\Release\net8.0\linux-x64\TravelAd.BD355572.Up2Date
+D:\TravelAd\TravelAd_Api\TravelAd_Api\obj\Release\net8.0\linux-x64\TravelAd_Api.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\obj\Release\net8.0\linux-x64\refint\TravelAd_Api.dll
+D:\TravelAd\TravelAd_Api\TravelAd_Api\obj\Release\net8.0\linux-x64\TravelAd_Api.pdb
+D:\TravelAd\TravelAd_Api\TravelAd_Api\obj\Release\net8.0\linux-x64\TravelAd_Api.genruntimeconfig.cache
+D:\TravelAd\TravelAd_Api\TravelAd_Api\obj\Release\net8.0\linux-x64\ref\TravelAd_Api.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\log4net.config
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\appsettings.Development.json
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\appsettings.json
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\TravelAd_Api
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\TravelAd_Api.deps.json
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\TravelAd_Api.runtimeconfig.json
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\TravelAd_Api.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\TravelAd_Api.pdb
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\Amazon.Extensions.S3.Encryption.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\AWSSDK.Core.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\AWSSDK.Extensions.NETCore.Setup.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\AWSSDK.KeyManagementService.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\AWSSDK.S3.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\Azure.Core.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\Azure.Identity.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\CsvHelper.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\EPPlus.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\Inetlab.SMPP.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\log4net.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\Microsoft.Identity.Client.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\Microsoft.OpenApi.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\Microsoft.SqlServer.Server.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\Newtonsoft.Json.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\BouncyCastle.Crypto.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\Serilog.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\Serilog.AspNetCore.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\Serilog.Extensions.Hosting.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\Serilog.Extensions.Logging.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\Serilog.Formatting.Compact.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\Serilog.Settings.Configuration.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\Serilog.Sinks.Console.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\Serilog.Sinks.Debug.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\Serilog.Sinks.File.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\Serilog.Sinks.RollingFile.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\Stripe.net.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\System.ClientModel.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\System.Configuration.ConfigurationManager.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\System.Drawing.Common.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\System.Memory.Data.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\System.Runtime.Caching.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\System.Xml.XPath.XmlDocument.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\bin\release\net8.0\linux-x64\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\obj\release\net8.0\linux-x64\TravelAd_Api.csproj.AssemblyReference.cache
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\obj\release\net8.0\linux-x64\TravelAd_Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\obj\release\net8.0\linux-x64\TravelAd_Api.AssemblyInfoInputs.cache
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\obj\release\net8.0\linux-x64\TravelAd_Api.AssemblyInfo.cs
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\obj\release\net8.0\linux-x64\TravelAd_Api.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\obj\release\net8.0\linux-x64\TravelAd_Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\obj\release\net8.0\linux-x64\TravelAd_Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\obj\release\net8.0\linux-x64\TravelAd_Api.sourcelink.json
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\obj\release\net8.0\linux-x64\staticwebassets.build.json
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\obj\release\net8.0\linux-x64\staticwebassets.development.json
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\obj\release\net8.0\linux-x64\staticwebassets\msbuild.TravelAd_Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\obj\release\net8.0\linux-x64\staticwebassets\msbuild.build.TravelAd_Api.props
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\obj\release\net8.0\linux-x64\staticwebassets\msbuild.buildMultiTargeting.TravelAd_Api.props
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\obj\release\net8.0\linux-x64\staticwebassets\msbuild.buildTransitive.TravelAd_Api.props
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\obj\release\net8.0\linux-x64\staticwebassets.pack.json
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\obj\release\net8.0\linux-x64\scopedcss\bundle\TravelAd_Api.styles.css
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\obj\release\net8.0\linux-x64\TravelAd.BD355572.Up2Date
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\obj\release\net8.0\linux-x64\TravelAd_Api.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\obj\release\net8.0\linux-x64\refint\TravelAd_Api.dll
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\obj\release\net8.0\linux-x64\TravelAd_Api.pdb
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\obj\release\net8.0\linux-x64\TravelAd_Api.genruntimeconfig.cache
+C:\Users\Dell\Downloads\TravelAd_Api\TravelAd_Api\Final Prod\TravelAd_Api\obj\release\net8.0\linux-x64\ref\TravelAd_Api.dll

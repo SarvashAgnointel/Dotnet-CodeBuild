@@ -1,0 +1,28 @@
+version: 0.2
+
+phases:
+  install:
+    runtime-versions:
+      dotnet: 8.0
+    commands:
+      - echo "Installing dependencies..."
+      - dotnet --version  # Just to confirm .NET is available
+
+  build:
+    commands:
+      - echo "Building and publishing the .NET application..."
+      - dotnet restore DotnetApp/
+      - dotnet publish DotnetApp/ -c Release -o publish
+
+  post_build:
+    commands:
+      - echo "Copying deploy files to publish folder..."
+      - cp appspec.yml publish/
+      - cp -r scripts/ publish/
+      - echo "Creating deployment package..."
+      - cd publish && zip -r ../deploy-package.zip . && cd ..
+      - echo "Build completed successfully."
+
+artifacts:
+  files:
+    - deploy-package.zip

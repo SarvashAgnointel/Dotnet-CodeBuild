@@ -10,9 +10,9 @@ phases:
 
   build:
     commands:
-      - echo "Building and publishing the .NET application..."
-      - dotnet restore TravelAd_Api/
-      - dotnet publish TravelAd_Api/ -c Release -o publish
+      - echo "Building and publishing the .NET application...
+      - dotnet build
+      - dotnet publish TravelAd_Api/ -c Release -o ./publish
 
   post_build:
     commands:

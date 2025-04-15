@@ -6,22 +6,20 @@ phases:
       dotnet: 8.0
     commands:
       - echo "🔧 Installing dependencies..."
-      - dotnet --version  # Confirm .NET version
+      - dotnet --version
 
   build:
     commands:
       - echo "🏗️ Building and publishing the .NET application..."
-      - cd TravelAd_Api  # Move into project directory
-      - dotnet restore  # Restore dependencies
-      - dotnet build -c Release  # Build project
-      - dotnet publish -c Release -o ../publish  # Publish to publish/ folder at root
-      - cd ..
+      - dotnet restore
+      - dotnet build -c Release
+      - dotnet publish -c Release -o publish
 
   post_build:
     commands:
       - echo "📦 Copying deployment files into publish folder..."
-      - cp appspec.yml publish/  # Copy deployment spec
-      - cp -r scripts/ publish/  # Copy scripts directory
+      - cp appspec.yml publish/
+      - cp -r scripts/ publish/
 
       - echo "🗜️ Creating deployment package..."
       - cd publish && zip -r ../deploy-package.zip . && cd ..

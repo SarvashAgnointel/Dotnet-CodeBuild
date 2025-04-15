@@ -1,0 +1,1281 @@
+[
+  {
+    "ContainingType": "TravelAd_Api.Controllers.AdminController",
+    "Method": "deleteworkspce",
+    "RelativePath": "Admin/api/deleteworkspce",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "workspaceid",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TravelAd_Api.Controllers.AdminController",
+    "Method": "GetAccountList",
+    "RelativePath": "Admin/api/GetAccountList",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TravelAd_Api.Controllers.AdminController",
+    "Method": "GetAdvertiserinfo",
+    "RelativePath": "Admin/api/GetAdvertiserinfo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TravelAd_Api.Controllers.AdminController",
+    "Method": "GetAudienceList",
+    "RelativePath": "Admin/api/GetAudienceList",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TravelAd_Api.Controllers.AdminController",
+    "Method": "GetCampaignListAdmin",
+    "RelativePath": "Admin/api/GetCampaignListAdmin",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TravelAd_Api.Controllers.AdminController",
+    "Method": "GetCampaignsCount",
+    "RelativePath": "Admin/api/GetCampaignsCount",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TravelAd_Api.Controllers.AdminController",
+    "Method": "GetUserCount",
+    "RelativePath": "Admin/api/GetUserCount",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TravelAd_Api.Controllers.AdminController",
+    "Method": "GetWorkspaceCount",
+    "RelativePath": "Admin/api/GetWorkspaceCount",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TravelAd_Api.Controllers.AdvertiserAccountController",
+    "Method": "contact_upload",
+    "RelativePath": "AdvertiserAccount/api/contact_upload",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TravelAd_Api.Controllers.AdvertiserAccountController",
+    "Method": "CreateCampaign",
+    "RelativePath": "AdvertiserAccount/api/CreateCampaign",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cc",
+        "Type": "TravelAd_Api.Models.AdvertiserAccountModel\u002BCreateCampaign",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TravelAd_Api.Controllers.AdvertiserAccountController",
+    "Method": "CreateMessageTemplate",
+    "RelativePath": "AdvertiserAccount/api/CreateMessageTemplate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "meta",
+        "Type": "TravelAd_Api.Models.AdvertiserAccountModel\u002BMetaTemplateDetails",
+        "IsRequired": true
+      },
+      {
+        "Name": "workspaceId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "channel_id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "workspace_id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TravelAd_Api.Controllers.AdvertiserAccountController",
+    "Method": "CreateNotificationSettings",
+    "RelativePath": "AdvertiserAccount/api/CreateNotificationSettings",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "EmailId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TravelAd_Api.Controllers.AdvertiserAccountController",
+    "Method": "CreateTemplate",
+    "RelativePath": "AdvertiserAccount/api/CreateTemplate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "template",
+        "Type": "TravelAd_Api.Models.AdvertiserAccountModel\u002BTemplateDetailsModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TravelAd_Api.Controllers.AdvertiserAccountController",
+    "Method": "DeleteAccountByEmail",
+    "RelativePath": "AdvertiserAccount/api/DeleteAccountByEmail",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TravelAd_Api.Controllers.AdvertiserAccountController",
+    "Method": "DeleteCampaignById",
+    "RelativePath": "AdvertiserAccount/api/DeleteCampaignById",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "CampaignId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TravelAd_Api.Controllers.AdvertiserAccountController",
+    "Method": "DeleteMessageTemplate",
+    "RelativePath": "AdvertiserAccount/api/DeleteMessageTemplate",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "template",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "workspaceId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TravelAd_Api.Controllers.AdvertiserAccountController",
+    "Method": "DeleteTemplateById",
+    "RelativePath": "AdvertiserAccount/api/DeleteTemplateById",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "TemplateId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TravelAd_Api.Controllers.AdvertiserAccountController",
+    "Method": "deleteworkspce",
+    "RelativePath": "AdvertiserAccount/api/deleteworkspce",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "workspaceid",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TravelAd_Api.Controllers.AdvertiserAccountController",
+    "Method": "GetAccessToken",
+    "RelativePath": "AdvertiserAccount/api/GetAccessToken/GetAccessToken",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "TravelAd_Api.Models.AdvertiserAccountModel\u002BOAuthCallbackRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TravelAd_Api.Controllers.AdvertiserAccountController",
+    "Method": "GetAdvAudienceListDetailsByWorkspaceId",
+    "RelativePath": "AdvertiserAccount/api/GetAdvAudienceListDetailsByWorkspaceId",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "workspace_id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TravelAd_Api.Controllers.AdvertiserAccountController",
+    "Method": "GetButtonType",
+    "RelativePath": "AdvertiserAccount/api/GetButtonType",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TravelAd_Api.Controllers.AdvertiserAccountController",
+    "Method": "Getcampaigncontacts",
+    "RelativePath": "AdvertiserAccount/api/Getcampaigncontacts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "CampaignId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TravelAd_Api.Controllers.AdvertiserAccountController",
+    "Method": "GetCampaignDetailsById",
+    "RelativePath": "AdvertiserAccount/api/GetCampaignDetailsById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "CampaignId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TravelAd_Api.Controllers.AdvertiserAccountController",
+    "Method": "GetCampaignListbyWorkspaceId",
+    "RelativePath": "AdvertiserAccount/api/GetCampaignListbyWorkspaceId/{workspaceId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "workspaceId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TravelAd_Api.Controllers.AdvertiserAccountController",
+    "Method": "GetChannelList",
+    "RelativePath": "AdvertiserAccount/api/GetChannelList",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TravelAd_Api.Controllers.AdvertiserAccountController",
+    "Method": "GetCombinedStatistics",
+    "RelativePath": "AdvertiserAccount/api/GetCombinedStatistics",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TravelAd_Api.Controllers.AdvertiserAccountController",
+    "Method": "GetContentList",
+    "RelativePath": "AdvertiserAccount/api/GetContentList",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TravelAd_Api.Controllers.AdvertiserAccountController",
+    "Method": "GetCountryDetails",
+    "RelativePath": "AdvertiserAccount/api/GetCountryDetails",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TravelAd_Api.Controllers.AdvertiserAccountController",
+    "Method": "GetCountryList",
+    "RelativePath": "AdvertiserAccount/api/GetCountryList",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TravelAd_Api.Controllers.AdvertiserAccountController",
+    "Method": "GetImage",
+    "RelativePath": "AdvertiserAccount/api/GetImage",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TravelAd_Api.Controllers.AdvertiserAccountController",
+    "Method": "GetIndusryList",
+    "RelativePath": "AdvertiserAccount/api/GetIndusryList",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TravelAd_Api.Controllers.AdvertiserAccountController",
+    "Method": "GetLanguageList",
+    "RelativePath": "AdvertiserAccount/api/GetLanguageList",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TravelAd_Api.Controllers.AdvertiserAccountController",
+    "Method": "GetMembersByWorkspaceId",
+    "RelativePath": "AdvertiserAccount/api/GetMembersByWorkspaceId",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "workspaceId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TravelAd_Api.Controllers.AdvertiserAccountController",
+    "Method": "GetMetaTemplateDetails",
+    "RelativePath": "AdvertiserAccount/api/GetMetaTemplateDetails",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "workspace_id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TravelAd_Api.Controllers.AdvertiserAccountController",
+    "Method": "GetMultipleWorkspacesByEmail",
+    "RelativePath": "AdvertiserAccount/api/GetMultipleWorkspacesByEmail",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "EmailId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TravelAd_Api.Controllers.AdvertiserAccountController",
+    "Method": "GetNotificationSettings",
+    "RelativePath": "AdvertiserAccount/api/GetNotificationSettings",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "EmailId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TravelAd_Api.Controllers.AdvertiserAccountController",
+    "Method": "GetPersonalinfoByEmail",
+    "RelativePath": "AdvertiserAccount/api/GetPersonalinfoByEmail",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "TravelAd_Api.Models.AdvertiserAccountModel\u002BGetPersonalinfoByEmail",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TravelAd_Api.Controllers.AdvertiserAccountController",
+    "Method": "GetProfileImage",
+    "RelativePath": "AdvertiserAccount/api/GetProfileImage",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "EmailId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TravelAd_Api.Controllers.AdvertiserAccountController",
+    "Method": "GetRolesList",
+    "RelativePath": "AdvertiserAccount/api/GetRolesList",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TravelAd_Api.Controllers.AdvertiserAccountController",
+    "Method": "GetTemplateDetails",
+    "RelativePath": "AdvertiserAccount/api/GetTemplateDetails",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TravelAd_Api.Controllers.AdvertiserAccountController",
+    "Method": "GetTemplateDetailsById",
+    "RelativePath": "AdvertiserAccount/api/GetTemplateDetailsById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "TemplateId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TravelAd_Api.Controllers.AdvertiserAccountController",
+    "Method": "GetTemplateList",
+    "RelativePath": "AdvertiserAccount/api/GetTemplateList/{workspaceId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "workspaceId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TravelAd_Api.Controllers.AdvertiserAccountController",
+    "Method": "GetTemplatePlatform",
+    "RelativePath": "AdvertiserAccount/api/GetTemplatePlatform",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TravelAd_Api.Controllers.AdvertiserAccountController",
+    "Method": "GetUserDetailsByWorkspace",
+    "RelativePath": "AdvertiserAccount/api/GetUserDetailsByWorkspace",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "WorkspaceId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TravelAd_Api.Controllers.AdvertiserAccountController",
+    "Method": "GetUserWorkspaceCount",
+    "RelativePath": "AdvertiserAccount/api/GetUserWorkspaceCount",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TravelAd_Api.Controllers.AdvertiserAccountController",
+    "Method": "GetWhatsappOwnerDetails",
+    "RelativePath": "AdvertiserAccount/api/GetWhatsappOwnerDetails",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "workspaceId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TravelAd_Api.Controllers.AdvertiserAccountController",
+    "Method": "GetWhatsappPhoneNumbers",
+    "RelativePath": "AdvertiserAccount/api/GetWhatsappPhoneNumbers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "workspaceId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TravelAd_Api.Controllers.AdvertiserAccountController",
+    "Method": "GetWorkspaceDetailsByEmail",
+    "RelativePath": "AdvertiserAccount/api/GetWorkspaceDetailsByEmail",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "TravelAd_Api.Models.AdvertiserAccountModel\u002BGetWorkspaceDetailsRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TravelAd_Api.Controllers.AdvertiserAccountController",
+    "Method": "InsertPendingInvitedMembers",
+    "RelativePath": "AdvertiserAccount/api/InsertPendingInvitedMembers",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "members",
+        "Type": "System.Collections.Generic.List\u00601[[TravelAd_Api.Models.AdvertiserAccountModel\u002BPendingInvitedMembers, TravelAd_Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TravelAd_Api.Controllers.AdvertiserAccountController",
+    "Method": "IsWhatsappTokenValid",
+    "RelativePath": "AdvertiserAccount/api/IsWhatsappTokenValid",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "workspaceId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TravelAd_Api.Controllers.AdvertiserAccountController",
+    "Method": "UpdateCampaign",
+    "RelativePath": "AdvertiserAccount/api/UpdateCampaign",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cc",
+        "Type": "TravelAd_Api.Models.AdvertiserAccountModel\u002BCreateCampaign",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TravelAd_Api.Controllers.AdvertiserAccountController",
+    "Method": "UpdateNotificationSettings",
+    "RelativePath": "AdvertiserAccount/api/UpdateNotificationSettings/UpdateNotificationSettings",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "TravelAd_Api.Models.AdvertiserAccountModel\u002BNotificationUpdateModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TravelAd_Api.Controllers.AdvertiserAccountController",
+    "Method": "UpdateTemplate",
+    "RelativePath": "AdvertiserAccount/api/UpdateTemplate",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "template",
+        "Type": "TravelAd_Api.Models.AdvertiserAccountModel\u002BTemplateDetailsModel",
+        "IsRequired": true
+      },
+      {
+        "Name": "TemplateId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TravelAd_Api.Controllers.AdvertiserAccountController",
+    "Method": "UpdateUserEmailAddress",
+    "RelativePath": "AdvertiserAccount/api/UpdateUserEmailAddress/updateEmailAddress",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "TravelAd_Api.Models.AdvertiserAccountModel\u002BUserEmailUpdateModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TravelAd_Api.Controllers.AdvertiserAccountController",
+    "Method": "UpdateUserProfile",
+    "RelativePath": "AdvertiserAccount/api/UpdateUserProfile/updateProfile",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "TravelAd_Api.Models.AdvertiserAccountModel\u002BUserProfileUpdateModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TravelAd_Api.Controllers.AdvertiserAccountController",
+    "Method": "UpdateWabaNPhoneId",
+    "RelativePath": "AdvertiserAccount/api/UpdateWabaNPhoneId",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "TravelAd_Api.Models.AdvertiserAccountModel\u002BUpdateWabaNPhoneId",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TravelAd_Api.Controllers.AdvertiserAccountController",
+    "Method": "UpdateWorkSpace",
+    "RelativePath": "AdvertiserAccount/api/UpdateWorkSpace/updateWorkSpaceName",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "TravelAd_Api.Models.AdvertiserAccountModel\u002BWorkspaceUpdateModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TravelAd_Api.Controllers.AdvertiserAccountController",
+    "Method": "UpdateWorkspaceAddress",
+    "RelativePath": "AdvertiserAccount/api/UpdateWorkspaceAddress/updateWorkSpaceAddress",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "TravelAd_Api.Models.AdvertiserAccountModel\u002BWorkspaceAddressUpdateModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TravelAd_Api.Controllers.AdvertiserAccountController",
+    "Method": "UpdateWorkspaceIndustry",
+    "RelativePath": "AdvertiserAccount/api/UpdateWorkspaceIndustry/updateWorkspaceIndustry",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "TravelAd_Api.Models.AdvertiserAccountModel\u002BWorkspaceIndustryModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TravelAd_Api.Controllers.AdvertiserAccountController",
+    "Method": "UploadFileAsync",
+    "RelativePath": "AdvertiserAccount/api/UploadFile",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file_name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "file_length",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "file_type",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "workspace_id",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ContentType",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ContentDisposition",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Headers",
+        "Type": "Microsoft.AspNetCore.Http.IHeaderDictionary",
+        "IsRequired": false
+      },
+      {
+        "Name": "Length",
+        "Type": "System.Int64",
+        "IsRequired": false
+      },
+      {
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "FileName",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AgnoCon.Controllers.AuthenticationController",
+    "Method": "CheckEmailExists",
+    "RelativePath": "Authentication/api/CheckEmailExists",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "uv",
+        "Type": "TravelAd_Api.Models.ApiModel\u002BUserVerify",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AgnoCon.Controllers.AuthenticationController",
+    "Method": "CheckIfAdmin",
+    "RelativePath": "Authentication/api/CheckIfAdmin",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "EmailId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AgnoCon.Controllers.AuthenticationController",
+    "Method": "ForgotPassword",
+    "RelativePath": "Authentication/api/ForgotPassword",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "TravelAd_Api.Models.ApiModel\u002BForgotPasswordRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AgnoCon.Controllers.AuthenticationController",
+    "Method": "GetCountryList",
+    "RelativePath": "Authentication/api/GetCountryList",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AgnoCon.Controllers.AuthenticationController",
+    "Method": "GetEmailDomains",
+    "RelativePath": "Authentication/api/GetEmailDomains",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AgnoCon.Controllers.AuthenticationController",
+    "Method": "GetIndustryList",
+    "RelativePath": "Authentication/api/GetIndustryList",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AgnoCon.Controllers.AuthenticationController",
+    "Method": "GetUserAccountByEmail",
+    "RelativePath": "Authentication/api/GetUserAccountByEmail",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "getAccountByEmail",
+        "Type": "TravelAd_Api.Models.ApiModel\u002BOtpRequestModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AgnoCon.Controllers.AuthenticationController",
+    "Method": "GetWorkspaceNameByEmail",
+    "RelativePath": "Authentication/api/GetWorkspaceNameByEmail",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "EmailId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AgnoCon.Controllers.AuthenticationController",
+    "Method": "GetWorkspaceNameById",
+    "RelativePath": "Authentication/api/GetWorkspaceNameById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "workspace_id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AgnoCon.Controllers.AuthenticationController",
+    "Method": "GetWorkspaceTypesList",
+    "RelativePath": "Authentication/api/GetWorkspaceTypesList",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AgnoCon.Controllers.AuthenticationController",
+    "Method": "InsertUserPersonalInfo",
+    "RelativePath": "Authentication/api/InsertUserPersonalInfo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "personalInfo",
+        "Type": "TravelAd_Api.Models.ApiModel\u002BUserPersonalInfoModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AgnoCon.Controllers.AuthenticationController",
+    "Method": "InsertUserWorkspaceRole",
+    "RelativePath": "Authentication/api/InsertUserWorkspaceRole",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "TravelAd_Api.Models.ApiModel\u002BInsertUserWorkspaceRole",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AgnoCon.Controllers.AuthenticationController",
+    "Method": "InsertWorkspaceInfo",
+    "RelativePath": "Authentication/api/InsertWorkspaceInfo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "workspaceInfo",
+        "Type": "TravelAd_Api.Models.ApiModel\u002BWorkspaceInfoModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AgnoCon.Controllers.AuthenticationController",
+    "Method": "Login",
+    "RelativePath": "Authentication/api/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "TravelAd_Api.Models.ApiModel\u002BUsers",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AgnoCon.Controllers.AuthenticationController",
+    "Method": "SendInvite",
+    "RelativePath": "Authentication/api/SendInvite/send-invite",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "requests",
+        "Type": "System.Collections.Generic.List\u00601[[TravelAd_Api.Models.ApiModel\u002BInviteRequestModel, TravelAd_Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AgnoCon.Controllers.AuthenticationController",
+    "Method": "SendOtp",
+    "RelativePath": "Authentication/api/SendOtp/SendOtp",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "TravelAd_Api.Models.ApiModel\u002BOtpRequestModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AgnoCon.Controllers.AuthenticationController",
+    "Method": "UpdateIsAccepted",
+    "RelativePath": "Authentication/api/UpdateIsAccepted",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "accepted",
+        "Type": "TravelAd_Api.Models.ApiModel\u002BisAccepted",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AgnoCon.Controllers.AuthenticationController",
+    "Method": "UpdatePassword",
+    "RelativePath": "Authentication/api/UpdatePassword",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "TravelAd_Api.Models.ApiModel\u002BUpdatePasswordRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AgnoCon.Controllers.AuthenticationController",
+    "Method": "UserLogin",
+    "RelativePath": "Authentication/api/UserLogin",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ul",
+        "Type": "TravelAd_Api.Models.ApiModel\u002BUserLogin",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AgnoCon.Controllers.AuthenticationController",
+    "Method": "UserRegister",
+    "RelativePath": "Authentication/api/UserRegister",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ul",
+        "Type": "TravelAd_Api.Models.ApiModel\u002BUserLogin",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AgnoCon.Controllers.AuthenticationController",
+    "Method": "VerifyOtp",
+    "RelativePath": "Authentication/api/VerifyOtp",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "TravelAd_Api.Models.ApiModel\u002BOtpVerificationModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TravelAd_Api.Controllers.WhatsappController",
+    "Method": "Webhook",
+    "RelativePath": "Whatsapp/api/Webhook",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "hub.mode",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "hub.challenge",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "hub.verify_token",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TravelAd_Api.Controllers.WhatsappController",
+    "Method": "Webhook",
+    "RelativePath": "Whatsapp/api/Webhook",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "payload",
+        "Type": "System.Text.Json.JsonElement",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

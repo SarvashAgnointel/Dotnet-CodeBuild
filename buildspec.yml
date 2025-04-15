@@ -1,0 +1,34 @@
+version: 0.2
+
+phases:
+  install:
+    runtime-versions:
+      dotnet: 8.0
+    commands:
+      - echo "🔧 Installing dependencies..."
+      - dotnet --version  # Confirm .NET version
+
+  build:
+    commands:
+      - echo "🏗️ Building and publishing the .NET application..."
+      - cd TravelAd_Api  # Move into project directory
+      - dotnet restore  # Restore dependencies
+      - dotnet build -c Release  # Build project
+      - dotnet publish -c Release -o ../publish  # Publish to publish/ folder at root
+      - cd ..
+
+  post_build:
+    commands:
+      - echo "📦 Copying deployment files into publish folder..."
+      - cp appspec.yml publish/  # Copy deployment spec
+      - cp -r scripts/ publish/  # Copy scripts directory
+
+      - echo "🗜️ Creating deployment package..."
+      - cd publish && zip -r ../deploy-package.zip . && cd ..
+
+      - echo "✅ Build and packaging complete!"
+
+artifacts:
+  files:
+    - deploy-package.zip
+  base-directory: .

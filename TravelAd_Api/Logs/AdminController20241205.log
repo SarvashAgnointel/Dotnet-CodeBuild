@@ -1,0 +1,22 @@
+[2024-12-05 22:54:05] [INF] Now listening on: http://localhost:5008
+[2024-12-05 22:54:06] [INF] Application started. Press Ctrl+C to shut down.
+[2024-12-05 22:54:06] [INF] Hosting environment: Development
+[2024-12-05 22:54:06] [INF] Content root path: D:\TravelAd\Code\TravelAD\Backend\Agno-API-TravelAD-v1.0-dev\TravelAd_Api\TravelAd_Api
+[2024-12-05 22:54:14] [INF] Request starting HTTP/1.1 GET http://localhost:5008/swagger/index.html - null null
+[2024-12-05 22:54:29] [WRN] Failed to determine the https port for redirect.
+[2024-12-05 22:54:34] [INF] Request finished HTTP/1.1 GET http://localhost:5008/swagger/index.html - 200 null text/html;charset=utf-8 19705.6679ms
+[2024-12-05 22:54:35] [INF] Request starting HTTP/1.1 GET http://localhost:5008/_vs/browserLink - null null
+[2024-12-05 22:54:35] [INF] Request starting HTTP/1.1 GET http://localhost:5008/_framework/aspnetcore-browser-refresh.js - null null
+[2024-12-05 22:54:36] [INF] Request finished HTTP/1.1 GET http://localhost:5008/_framework/aspnetcore-browser-refresh.js - 200 13760 application/javascript; charset=utf-8 318.9138ms
+[2024-12-05 22:54:36] [INF] Request finished HTTP/1.1 GET http://localhost:5008/_vs/browserLink - 200 null text/javascript; charset=UTF-8 865.0052ms
+[2024-12-05 22:54:37] [INF] Request starting HTTP/1.1 GET http://localhost:5008/swagger/v1/swagger.json - null null
+[2024-12-05 22:54:38] [INF] Request finished HTTP/1.1 GET http://localhost:5008/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 1297.296ms
+[2024-12-05 22:54:50] [INF] Request starting HTTP/1.1 GET http://localhost:5008/AdvertiserAccount/api/GetCountryList - null null
+[2024-12-05 22:54:50] [INF] Executing endpoint 'TravelAd_Api.Controllers.AdvertiserAccountController.GetCountryList (TravelAd_Api)'
+[2024-12-05 22:54:51] [INF] Route matched with {action = "GetCountryList", controller = "AdvertiserAccount"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetCountryList(DBAccess.IDbHandler) on controller TravelAd_Api.Controllers.AdvertiserAccountController (TravelAd_Api).
+[2024-12-05 22:54:51] [INF]  Maha Executing stored procedure: {StoredProcedure}
+[2024-12-05 22:54:56] [INF] Successfully retrieved country list from the database.
+[2024-12-05 22:54:56] [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType9`3[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Collections.Generic.List`1[[<>f__AnonymousType8`2[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]], TravelAd_Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+[2024-12-05 22:54:57] [INF] Executed action TravelAd_Api.Controllers.AdvertiserAccountController.GetCountryList (TravelAd_Api) in 5569.1198ms
+[2024-12-05 22:54:57] [INF] Executed endpoint 'TravelAd_Api.Controllers.AdvertiserAccountController.GetCountryList (TravelAd_Api)'
+[2024-12-05 22:54:57] [INF] Request finished HTTP/1.1 GET http://localhost:5008/AdvertiserAccount/api/GetCountryList - 200 null application/json; charset=utf-8 6891.1102ms
